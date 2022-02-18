@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+}
+
+.bar {
+    width: 70%;
+    margin: 0 auto;
+    padding: 40px 5px 20px 5px;
+}
+
+.button1 {
+    float: left;
+}
+
+.button2 {
+    float: right;
+}
+
+#table {
+    margin: 0 auto;
+}

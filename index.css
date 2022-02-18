@@ -1,0 +1,100 @@
+.mail {
+    font-weight: 500;
+}
+
+.mail>span:last-child {
+    float: right;
+}
+
+.req {
+    color: red;
+    font-size: 13px;
+}
+
+.form {
+    height: 1100px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title-div {
+    height: 220px;
+    width: 600px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border-radius: 8px;
+    border-top: 8px solid #673AB7;
+    padding: 25px;
+    font-size: 13px;
+}
+
+.firstName-div,
+.lastName-div,
+.email-div,
+.Pphoto-div,
+.mNumber-div,
+.Ttitle-div {
+    height: 150px;
+    width: 600px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+.name {
+    padding: 20px 0 25px 25px;
+    font-size: 15px;
+}
+
+.input {
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.input>input {
+    width: 300px;
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid rgba(167, 164, 164, 0.616);
+    font-size: 15px;
+}
+
+.btnn {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    position: absolute;
+    margin: 15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background-color: #673AB7;
+}
+
+.footer>h3 {
+    text-align: center;
+    padding-top: 55px;
+    color: #746669;
+    font-weight: 300;
+}
+
+.terms {
+    font-size: 12px;
+    padding-left: 65px;
+    padding-top: 25px;
+    position: absolute;
+}
+
+.dont {
+    padding: 70px 0 0 15px;
+    font-size: 12px;
+    font-weight: 300px;
+}
+
+#SwitchAcct {
+    text-decoration: none;
+    text-decoration-line: none;
+}
